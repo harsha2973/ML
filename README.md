@@ -130,7 +130,7 @@ version = "1.0"
 repositories { 
 mavenCentral() 
 } 
-Devops lab manual 
+
 dependencies { 
 // Define dependencies using Kotlin DSL syntax 
 testImplementation("junit:junit:4.13.2") 
